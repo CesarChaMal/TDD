@@ -1,0 +1,15 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ÑŸùÿÿÿÿ
+
+java:S1319"dThe type of "esquema" should be an interface such as "Map" rather than the implementation "HashMap".(æ™Ùøÿÿÿÿ
+z
+java:S1319
+"dThe type of "esquema" should be an interface such as "Map" rather than the implementation "HashMap".(Ã˜âë
+ƒ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ô˜Šº
+n
+java:S1104"SMake esquema a static final constant or non-public and provide accessors if needed.(æ™Ùøÿÿÿÿ
+?
+java:S1905")Remove this unnecessary cast to "String".(ßŒÊ§
+Q	java:S125""<This block of commented-out lines of code should be removed.(İˆ¯ü

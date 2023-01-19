@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KataArgs/KataArgs.iml" filepath="$PROJECT_DIR$/KataArgs/KataArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KataBankOCR/KataBankOCR.iml" filepath="$PROJECT_DIR$/KataBankOCR/KataBankOCR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KataBowling/KataBowling.iml" filepath="$PROJECT_DIR$/KataBowling/KataBowling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KataFizzBuzz/KataFizzBuzz.iml" filepath="$PROJECT_DIR$/KataFizzBuzz/KataFizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Agosto-Minesweeper/jacarui/KataMinesweeper/KataMinesweeper.iml" filepath="$PROJECT_DIR$/Agosto-Minesweeper/jacarui/KataMinesweeper/KataMinesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KataRomanNumerals/KataRomanNumerals.iml" filepath="$PROJECT_DIR$/KataRomanNumerals/KataRomanNumerals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KataRomanNumerals2/KataRomanNumerals2.iml" filepath="$PROJECT_DIR$/KataRomanNumerals2/KataRomanNumerals2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Roboexplorer/Roboexplorer.iml" filepath="$PROJECT_DIR$/Roboexplorer/Roboexplorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TDD.iml" filepath="$PROJECT_DIR$/.idea/TDD.iml" />
+    </modules>
+  </component>
+</project>
